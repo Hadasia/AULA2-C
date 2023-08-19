@@ -2,7 +2,7 @@
 
  int main(){
 
-printf("oi, a aula ta rendendo nada hoje");
+printf("oi");
 
 
 return 0;
