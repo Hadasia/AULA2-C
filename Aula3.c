@@ -45,10 +45,5 @@ printf("resultado: %d\n", valor1 % valor2);
 
 }
 
-
-
-printf("resultado:%d\n", resultado);
-printf("operacao: %c\n", operacao);
-
     return 0;
 }
