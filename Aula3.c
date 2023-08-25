@@ -25,23 +25,23 @@ printf("Valor2:\n");
 scanf("%d", &valor2);
 
 if(operacao == '+'){
-resultado = valor1 + valor2;
+printf("resultado: %d\n", valor1 + valor2);
 
 }
 else if(operacao == '-'){
-resultado = valor1 - valor2;
+printf("resultado: %d\n", valor1 - valor2);
 
 }
 if(operacao == '*'){
-resultado = valor1 * valor2;
+printf("resultado: %d\n", valor1 * valor2);
 
 }
 else if(operacao == '/'){
-resultado = valor1 / valor2;
+printf("resultado: %d\n", valor1 / valor2);
 
 }
 else{
-resultado = valor1 % valor2;
+printf("resultado: %d\n", valor1 % valor2);
 
 }
 
