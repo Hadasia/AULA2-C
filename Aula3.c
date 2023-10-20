@@ -6,6 +6,8 @@ int valor2;
 int resultado;
 char operacao;
 
+
+
 valor1 = 10;
 valor2 = 2;
 
